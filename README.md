@@ -28,7 +28,7 @@ Ultimately, my compass points towards the enigmatic and ever-evolving world of A
             <img src="assets/Javascript3.gif" height="55" width="55" />
         </p>
   
-![C++](https://img.shields.io/badge/C++-35%25-blue) &nbsp;&nbsp;&nbsp;&nbsp; ![Python](https://img.shields.io/badge/Python-40%25-blue) &nbsp;&nbsp;&nbsp;&nbsp; ![JavaScript](https://img.shields.io/badge/JavaScript-10%25-yellow) </br> </br>
+![C++](https://img.shields.io/badge/C++-35%25-blue) &nbsp;&nbsp;&nbsp;&nbsp; ![Python](https://img.shields.io/badge/Python-40%60-blue) &nbsp;&nbsp;&nbsp;&nbsp; ![JavaScript](https://img.shields.io/badge/JavaScript-10%25-yellow) </br> </br>
 
  <p float="left"> 
       <img src="assets/Html.gif" height="75" width="60" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
