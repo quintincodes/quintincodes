@@ -99,12 +99,12 @@ Ultimately, my compass points towards the enigmatic and ever-evolving world of A
 
   <div align="center"> 
     
-  ![Readme Stats](https://github-readme-stats.vercel.app/api?username=quintin.dev&count_private=true&theme=tokyonight&showicons=true)
+  ![Readme Stats](https://github-readme-stats.vercel.app/api?username=quintin-dev&count_private=true&theme=tokyonight&showicons=true)
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quintin.dev&langs_count=5&theme=tokyonight)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quintin-dev&langs_count=5&theme=tokyonight)
   </br>
   </br> 
-  ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=quintin.dev&theme=tokyonight)
+  ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=quintin-dev&theme=tokyonight)
   </br>
 
   </div> 
