@@ -60,7 +60,7 @@ Ultimately, my compass points towards the enigmatic and ever-evolving world of A
 
 
 ### FCC Certification Projects (JavaScript)
-- 
+- **[Palindrome Checker](https://github.com/Eddking-QS/Projects-Product_Landing_Page)** **- A Web Page with a Palindrome Checker**
 
 <br>
 <br>
