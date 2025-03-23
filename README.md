@@ -115,7 +115,7 @@ Ultimately, my compass points towards the enigmatic and ever-evolving world of A
 ## ▪️ Let's Connect ▪️
 
   </br> 
-I'm always open to discussions, ideas, collaborations, or simply networking. Here's how you can reach me:
+I'm always open to discussions, ideas, collaborations, or networking. Here's how you can reach me:
 
 -   Lets talk on <a href="https://discord.gg/S4KuUJSa">Discord</a>
 -   Connect with me on: <a href="https://www.linkedin.com/in/edwardking-quintin-sey-b2088430b/">LinkedIn</a>
