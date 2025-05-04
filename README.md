@@ -102,12 +102,13 @@ Ultimately, my compass points towards the enigmatic and ever-evolving world of A
 
   <div align="center"> 
     
-  ![Readme Stats](https://github-readme-stats.vercel.app/api?username=quintin-dev&count_private=true&show_icons=true&bg_color=1B1B1B&title_color=F61115&text_color=EAEAEA&icon_color=9A54B3&border_color=1B1B1B)
+  ![Readme Stats](https://github-readme-stats.vercel.app/api?username=quintin-dev&count_private=true&show_icons=true&hide_border=false&bg_color=000000&title_color=F61115&text_color=EAEAEA&icon_color=9A54B3&border_color=F61115)
+
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quintin-dev&langs_count=5&layout=compact&bg_color=1B1B1B&title_color=F61115&text_color=EAEAEA&icon_color=9A54B3&border_color=1B1B1B)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quintin-dev&layout=compact&langs_count=8&hide_border=false&bg_color=000000&title_color=FF0000&text_color=C9D1D9&border_color=FF0000)
   </br>
   </br> 
-  ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=quintin-dev&background=1B1B1B&ring=F61115&fire=F61115&currStreakLabel=9A54B3&sideLabels=EAEAEA&sideNums=EAEAEA&currStreakNum=F61115&dates=EAEAEA&border=1B1B1B)
+  ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=quintin-dev&background=000000&ring=F61115&fire=F61115&currStreakLabel=9A54B3&sideLabels=EAEAEA&sideNums=EAEAEA&currStreakNum=F61115&dates=EAEAEA&border=FF0000)
   </br>
 
   </div>
