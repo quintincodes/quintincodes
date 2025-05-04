@@ -102,12 +102,12 @@ Ultimately, my compass points towards the enigmatic and ever-evolving world of A
 
   <div align="center"> 
     
-  ![Readme Stats](https://github-readme-stats.vercel.app/api?username=quintin-dev&count_private=true&theme=tokyonight&showicons=true)
+  ![Readme Stats](https://github-readme-stats.vercel.app/api?username=quintin-dev&count_private=true&show_icons=true&bg_color=1B1B1B&title_color=F61115&text_color=EAEAEA&icon_color=9A54B3&border_color=1B1B1B)
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quintin-dev&langs_count=5&theme=tokyonight)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quintin-dev&langs_count=5&layout=compact&bg_color=1B1B1B&title_color=F61115&text_color=EAEAEA&icon_color=9A54B3&border_color=1B1B1B)
   </br>
   </br> 
-  ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=quintin-dev&theme=tokyonight)
+  ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=quintin-dev&background=1B1B1B&ring=F61115&fire=F61115&currStreakLabel=9A54B3&sideLabels=EAEAEA&sideNums=EAEAEA&currStreakNum=F61115&dates=EAEAEA&border=1B1B1B)
   </br>
 
   </div>
