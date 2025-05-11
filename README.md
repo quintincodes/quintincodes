@@ -30,13 +30,13 @@ Ultimately, my compass points towards the enigmatic and ever-evolving world of A
 
 ![C++](https://img.shields.io/badge/C++-35%25-blue)      
 ![Python](https://img.shields.io/badge/Python-40%25-blue)      
-![JavaScript](https://img.shields.io/badge/JavaScript-10%25-yellow)      
-![Java](https://img.shields.io/badge/Java-20%25-red)      
+![JavaScript](https://img.shields.io/badge/JavaScript-40%25-yellow)      
+![Java](https://img.shields.io/badge/Java-12%25-red)      
 ![PHP](https://img.shields.io/badge/PHP-15%25-purple)  
 </br> </br>
 
 
-<img src="assets/Html.gif" height="80" width="45" /> &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+<img src="assets/Html.gif" height="80" width="50" /> &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
 <img src="assets/CSS2.gif" height="50" width="45" /> &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;
 <img src="assets/Tailwind.gif" height="50" width="60" /> &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;  &nbsp; &nbsp;
 <img src="assets/sql.gif" height="50" width="50" /> &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
@@ -44,14 +44,13 @@ Ultimately, my compass points towards the enigmatic and ever-evolving world of A
 
 
 ![HTML](https://img.shields.io/badge/HTML-80%25-orange)      
-![CSS](https://img.shields.io/badge/CSS-65%25-blue)      
+![CSS](https://img.shields.io/badge/CSS-70%25-blue)      
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-50%25-teal)      
 ![SQL](https://img.shields.io/badge/SQL-25%25-lightgrey)      
-![Figma](https://img.shields.io/badge/Figma-45%25-pink) 
+![Figma](https://img.shields.io/badge/Figma-35%25-pink) 
 
 </br>
 </div>
-</br>
 
 
 ## ▪️ Projects ▪️
