@@ -3,16 +3,15 @@
 <div align="center">
   
 ![Profile Views](https://komarev.com/ghpvc/?username=Eddking-QS&color=blue&style=flat-square&label=PROFILE+VIEWS)
-</div>
+</div>▪️
 
 ## ▪️ About Me ▪️
 
-</br>
-Hello World! 👋 I'm Edwardking, a Computer Science student on an exhilarating journey to become a full-stack developer. But why stop there? My curiosity is as boundless as the cloud itself, and that's where I'm headed next. Cloud computing is on my horizon, and I'm eager to explore the vast expanse of scalable solutions and distributed systems. </br>
-</br>
-Ultimately, my compass points towards the enigmatic and ever-evolving world of AI and Machine Learning. Here, I aim to merge my passion for technology with the power of algorithms, driving innovation that learns, adapts, and improves. Technology has always been my playground, and computers, my loyal companions. I thrive on problem-solving and relish challenges that stretch the limits of imagination, creativity, and logical thinking.
-  </br>
-  </br>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=9900FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=👨‍💻+Edwardking+%7C+Aspiring+Full-Stack+Developer;🎓+2nd-Year+CS+Student+%40+VVU+%7C+365+Days+of+Code;☁️+Cloud+%26+AI+Curious+%7C+Building+Projects+Daily;🛠️+Learning+JavaScript%2C+React+%26+Node.js" alt="Typing SVG">
+</p>
+
+
 
 ## ▪️ Learning Progress ▪️
 
