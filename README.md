@@ -16,28 +16,42 @@ Ultimately, my compass points towards the enigmatic and ever-evolving world of A
 
 ## ▪️ Learning Progress ▪️
 
-  <img src="assets/setup.gif" height="300" width="300" align = "left"> 
-  </br>
-  <div align="center">
-        <p float="left"> 
-            <img src="assets/C.gif" height="60" width="60" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            <img src="assets/Python.gif" height="60" width="60" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            <img src="assets/Javascript3.gif" height="55" width="55" />
-        </p>
-  
-![C++](https://img.shields.io/badge/C++-35%25-blue) &nbsp;&nbsp;&nbsp;&nbsp; ![Python](https://img.shields.io/badge/Python-40%25-blue) &nbsp;&nbsp;&nbsp;&nbsp; ![JavaScript](https://img.shields.io/badge/JavaScript-10%25-yellow) </br> </br>
+<img src="assets/setup.gif" height="300" width="300" align="left"> 
+</br>
+<div align="center">
 
- <p float="left"> 
-      <img src="assets/Html.gif" height="75" width="60" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="assets/CSS2.gif" height="50" width="55" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/Tailwind.gif" height="60" width="75" />
- </p>
- 
- ![HTML](https://img.shields.io/badge/HTML-80%25-orange) &nbsp;&nbsp;&nbsp;&nbsp; ![CSS](https://img.shields.io/badge/CSS-65%25-blue) &nbsp;&nbsp;&nbsp; ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-50%25-teal)
 
- </br>
+<img src="assets/C.gif" height="50" width="50" /> &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+<img src="assets/Python.gif" height="50" width="50" /> &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;
+<img src="assets/Javascript3.gif" height="50" width="50" /> &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;  &nbsp;
+<img src="assets/Java.gif" height="50" width="50" /> &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+<img src="assets/Php.gif" height="50" width="50" /> 
 
-  </div>
-  </br>
+
+![C++](https://img.shields.io/badge/C++-35%25-blue)      
+![Python](https://img.shields.io/badge/Python-40%25-blue)      
+![JavaScript](https://img.shields.io/badge/JavaScript-40%25-yellow)      
+![Java](https://img.shields.io/badge/Java-12%25-red)      
+![PHP](https://img.shields.io/badge/PHP-15%25-purple)  
+</br> </br>
+
+
+<img src="assets/Html.gif" height="80" width="50" /> &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+<img src="assets/CSS2.gif" height="50" width="45" /> &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;
+<img src="assets/Tailwind.gif" height="50" width="60" /> &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;  &nbsp; &nbsp;
+<img src="assets/sql.gif" height="50" width="50" /> &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+<img src="assets/Figma.gif" height="60" width="55" />  
+
+
+![HTML](https://img.shields.io/badge/HTML-80%25-orange)      
+![CSS](https://img.shields.io/badge/CSS-70%25-blue)      
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-50%25-teal)      
+![SQL](https://img.shields.io/badge/SQL-25%25-lightgrey)      
+![Figma](https://img.shields.io/badge/Figma-35%25-pink) 
+
+</br>
+</div>
+
 
 ## ▪️ Projects ▪️
 
