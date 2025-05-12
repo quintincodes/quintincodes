@@ -105,6 +105,102 @@ Ultimately, my compass points towards the enigmatic and ever-evolving world of A
   
   </br>
 
+## ▪️ My Techstack ▪️
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="45" height="45" />
+      <br>HTML
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="45" height="45" />
+      <br>CSS
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="45" height="45" />
+      <br>Tailwind CSS
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="45" height="45" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="55" height="55" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="55" height="55" />
+      <br>React
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="45" height="45" />
+      <br>Node.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="45" height="45" />
+      <br>Express.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="45" height="45" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="55" height="55" />
+      <br>MySQL
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="45" height="45" />
+      <br>Firebase
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="45" height="45" />
+      <br>PHP
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="55" height="55" />
+      <br>Python
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=git" alt="Git" width="45" height="45" />
+      <br>Git
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="45" height="45" />
+      <br>GitHub
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="45" height="45" />
+      <br>Figma
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="45" height="45" />
+      <br>VS Code
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=markdown" alt="Markdown" width="45" height="45" />
+      <br>Markdown
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=notion" alt="Notion" width="45" height="45" />
+      <br>Notion
+    </td>
+    <td align="center" width="90">
+      <img src="assets/dendron.png" alt="Dendron" width="55" height="55" />
+      <br>Dendron
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
 ## ▪️ Github Stats ▪️
 
   </br>
