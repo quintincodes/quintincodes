@@ -5,10 +5,11 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Eddking-QS&color=blue&style=flat-square&label=PROFILE+VIEWS)
 </div>▪️
 
+
 ## ▪️ About Me ▪️
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=9900FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=👨‍💻+Edwardking+%7C+Aspiring+Full-Stack+Developer;🎓+2nd-Year+CS+Student+%40+VVU+%7C+365+Days+of+Code;☁️+Cloud+%26+AI+Curious+%7C+Building+Projects+Daily;🛠️+Learning+JavaScript%2C+React+%26+Node.js" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=2500&color=FF0066&center=true&vCenter=true&multiline=true&width=1000&height=180&lines=👨‍💻+I'm+Edwardking+%7C+Aspiring+Full-Stack+Developer;🎓+2nd-Year+CS+Student+%40+VVU+%7C+Founder+of+QuinTech+Software+Solutions;☁️+Cloud+%26+AI+Enthusiast+%7C+Building+Innovative+Projects+Daily;🛠️+Proficient+in+JavaScript%2C+React%2C+Node.js+%7C+Let's+Build+Something+Great!" alt="Typing SVG" />
 </p>
 
 
