@@ -3,8 +3,7 @@
 <div align="center">
   
 ![Profile Views](https://komarev.com/ghpvc/?username=Eddking-QS&color=blue&style=flat-square&label=PROFILE+VIEWS)
-</div>▪️
-
+</div>
 
 ## ▪️ About Me ▪️
 
