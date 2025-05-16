@@ -18,14 +18,14 @@
 <div align="center">
 
 
-<img src="assets/C.gif" height="50" width="50" /> &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
-<img src="assets/Python.gif" height="50" width="50" /> &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;
-<img src="assets/Javascript3.gif" height="50" width="50" /> &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;  &nbsp;
-<img src="assets/Java.gif" height="50" width="50" /> &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-<img src="assets/Php.gif" height="50" width="50" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="55" width="55" /> &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" height="55" width="55" /> &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" height="55" width="55" /> &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;  &nbsp;
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" height="55" width="55" /> &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" height="55" width="55">
 
 
-![C++](https://img.shields.io/badge/C++-35%25-blue)      
+![C++](https://img.shields.io/badge/C++-25%25-blue)      
 ![Python](https://img.shields.io/badge/Python-40%25-blue)      
 ![JavaScript](https://img.shields.io/badge/JavaScript-40%25-yellow)      
 ![Java](https://img.shields.io/badge/Java-12%25-red)      
@@ -33,11 +33,11 @@
 </br> </br>
 
 
-<img src="assets/Html.gif" height="80" width="50" /> &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
-<img src="assets/CSS2.gif" height="50" width="45" /> &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;
-<img src="assets/Tailwind.gif" height="50" width="60" /> &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;  &nbsp; &nbsp;
-<img src="assets/sql.gif" height="50" width="50" /> &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-<img src="assets/Figma.gif" height="60" width="55" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" height="50" width="50" /> &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" height="50" width="50" /> &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;
+<img src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg" alt="Tailwind CSS" height="55" width="55" /> &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;  &nbsp; &nbsp;
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL"  height="55" width="55" /> &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" height="50" width="50" />  
 
 
 ![HTML](https://img.shields.io/badge/HTML-80%25-orange)      
