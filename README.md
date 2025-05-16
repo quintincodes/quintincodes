@@ -11,6 +11,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=1000&pause=2500&color=FF0066&center=true&vCenter=true&multiline=true&width=1000&height=130&lines=👨🏿‍💻+I'm+Quintin+%7C+Aspiring+Full-Stack+Engineer+%26+Future+Founder;🎓+3rd-Year+CS+Student+%40+VVU;☁️+Cloud+%26+AI+Enthusiast+%7C+Innovating+One+Project+at+a+Time;🔥+365+Days+of+Code+In+Progress+%7C+Let's+Build+Something+Great!" alt="Typing SVG" />
 </p>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=quintin-dev&theme=radical&no-frame=true&no-bg=true&margin-w=5&margin-h=5&column=3&row=1" alt="Quintin's GitHub Trophies" />
+</div>
+
 ## ▪️ Learning Progress ▪️
 
 <img src="assets/setup.gif" height="300" width="300" align="left"> 
@@ -286,30 +290,24 @@
 </table>
 
 
+## ▪️ Github Stats ▪️ 
 
+ </br> 
 
-
-
-
-
-## ▪️ Github Stats ▪️
-
-  </br>
-
-  <div align="center"> 
-    
-  ![Readme Stats](https://github-readme-stats.vercel.app/api?username=quintin-dev&count_private=true&show_icons=true&hide_border=false&bg_color=000000&title_color=F61115&text_color=EAEAEA&icon_color=9A54B3&border_color=F61115)
-
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quintin-dev&layout=compact&langs_count=8&hide_border=false&bg_color=000000&title_color=FF0000&text_color=C9D1D9&border_color=FF0000)
-  </br>
-  </br> 
-  ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=quintin-dev&background=000000&ring=F61115&fire=F61115&currStreakLabel=9A54B3&sideLabels=EAEAEA&sideNums=EAEAEA&currStreakNum=F61115&dates=EAEAEA&border=FF0000)
-  </br>
-
-  </div>
-
-## ▪️ Let's Connect ▪️
+ <div align="center"> 
+    <p>
+        <img src="https://github-readme-stats.vercel.app/api?username=quintin-dev&count_private=true&show_icons=true&hide_border=false&bg_color=000000&title_color=F61115&text_color=EAEAEA&icon_color=9A54B3&border_color=F61115" alt="Quintin's GitHub Stats" />
+    </p>
+    <p>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quintin-dev&layout=compact&langs_count=8&hide_border=false&bg_color=000000&title_color=FF0000&text_color=C9D1D9&border_color=FF0000" alt="Top Languages" />
+    </p>
+    <p>
+        <img src="https://profile-summary-card-output.vercel.app/api/cards/profile-details?username=quintin-dev&theme=transparent&bg_color=000000&text_color=EAEAEA&title_color=F61115&ring_color=9A54B3&border_color=F61115&hide_border=false" alt="Quintin's Profile Summary" />
+    </p>
+    <p>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=quintin-dev&background=000000&ring=F61115&fire=F61115&currStreakLabel=9A54B3&sideLabels=EAEAEA&sideNums=EAEAEA&currStreakNum=F61115&dates=EAEAEA&border=FF0000" alt="GitHub Streak Stats" />
+    </p>
+ </div>
 
   </br> 
 I'm always open to discussions, ideas, collaborations, or networking. Here's how you can reach me:
