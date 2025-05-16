@@ -139,7 +139,7 @@
   <tbody>
     <tr>
       <td style="text-align:left;"><a href="https://github.com/quintin-dev/FCC-Palindrome_Checker" target="_blank">Palindrome Checker</a></td>
-      <td style="text-align:left;">A Web Page with a Palindrome Checker with a hidden easter egg.</td>
+      <td style="text-align:left;">A simple Web Page with a Palindrome Checker with a hidden easter egg.</td>
       <td style="text-align:center;">HTML, CSS, JavaScript</td>
       <td style="text-align:center;"><a href="YOUR_LIVE_DEMO_LINK_HERE" target="_blank">[View]</a></td>
     </tr>
