@@ -294,20 +294,26 @@
 
  </br> 
 
- <div align="center"> 
-    <p>
-        <img src="https://github-readme-stats.vercel.app/api?username=quintin-dev&count_private=true&show_icons=true&hide_border=false&bg_color=000000&title_color=F61115&text_color=EAEAEA&icon_color=9A54B3&border_color=F61115" alt="Quintin's GitHub Stats" />
-    </p>
-    <p>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quintin-dev&layout=compact&langs_count=8&hide_border=false&bg_color=000000&title_color=FF0000&text_color=C9D1D9&border_color=FF0000" alt="Top Languages" />
-    </p>
-    <p>
-        <img src="https://profile-summary-card-output.vercel.app/api/cards/profile-details?username=quintin-dev&theme=transparent&bg_color=000000&text_color=EAEAEA&title_color=F61115&ring_color=9A54B3&border_color=F61115&hide_border=false" alt="Quintin's Profile Summary" />
-    </p>
-    <p>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=quintin-dev&background=000000&ring=F61115&fire=F61115&currStreakLabel=9A54B3&sideLabels=EAEAEA&sideNums=EAEAEA&currStreakNum=F61115&dates=EAEAEA&border=FF0000" alt="GitHub Streak Stats" />
-    </p>
- </div>
+<div align="center">
+
+  <!-- Top Stats Row -->
+  <img src="https://github-readme-stats.vercel.app/api?username=quintin-dev&count_private=true&show_icons=true&hide_border=false&bg_color=000000&title_color=F61115&text_color=EAEAEA&icon_color=9A54B3&border_color=F61115" width="45%" />&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quintin-dev&layout=compact&langs_count=8&hide_border=false&bg_color=000000&title_color=FF0000&text_color=C9D1D9&border_color=FF0000" width="45%" />
+
+  <br><br>
+
+  <!-- Full Width Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=quintin-dev&bg_color=000000&color=EAEAEA&line=9A54B3&point=F61115&area=true&hide_border=false" width="100%" />
+
+  <br><br>
+
+  <!-- Bottom Full Width Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=quintin-dev&background=000000&ring=F61115&fire=F61115&currStreakLabel=9A54B3&sideLabels=EAEAEA&sideNums=EAEAEA&currStreakNum=F61115&dates=EAEAEA&border=FF0000" width="100%" />
+  
+</div>
+
+
+ 
 
   </br> 
 I'm always open to discussions, ideas, collaborations, or networking. Here's how you can reach me:
