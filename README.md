@@ -295,17 +295,26 @@
  </br> 
 <div align="center">
 
-  <!-- Hero Top -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=quintin-dev&background=000000&ring=F61115&fire=F61115&currStreakLabel=9A54B3&sideLabels=EAEAEA&sideNums=EAEAEA&currStreakNum=F61115&dates=EAEAEA&border=FF0000" width="100%" />
+  
+  <br><br>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=quintin-dev&count_private=true&show_icons=true&hide_border=false&bg_color=000000&title_color=F61115&text_color=EAEAEA&icon_color=9A54B3&border_color=F61115" width="100%" />
+  
+  <br><br>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quintin-dev&layout=compact&langs_count=8&hide_border=false&bg_color=000000&title_color=FF0000&text_color=C9D1D9&border_color=FF0000" width="100%" />
+  
+  <br><br>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=quintin-dev&theme=github_dark" width="100%" />
 
   <br><br>
 
-  <!-- Grid Row -->
-  <img src="https://github-readme-stats.vercel.app/api?username=quintin-dev&count_private=true&show_icons=true&hide_border=false&bg_color=000000&title_color=F61115&text_color=EAEAEA&icon_color=9A54B3&border_color=F61115" width="32%" />&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quintin-dev&layout=compact&langs_count=8&hide_border=false&bg_color=000000&title_color=FF0000&text_color=C9D1D9&border_color=FF0000" width="32%" />&nbsp;&nbsp;
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=quintin-dev&bg_color=000000&color=EAEAEA&line=9A54B3&point=F61115&area=true&hide_border=false" width="32%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=quintin-dev&bg_color=000000&color=EAEAEA&line=9A54B3&point=F61115&area=true&hide_border=false" width="100%" />
 
 </div>
+
 
 
 
