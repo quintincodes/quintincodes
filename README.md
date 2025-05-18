@@ -4,6 +4,7 @@
   
 ![Profile Views](https://komarev.com/ghpvc/?username=Eddking-QS&color=blue&style=flat-square&label=PROFILE+VIEWS)
 </div>
+
 ## ▪️ About Me ▪️
 
 <p align="center">
@@ -287,7 +288,7 @@
     </td>
   </tr>
 </table>
- </br>
+
 
 <<<<<<< HEAD
 =======
@@ -296,7 +297,21 @@
 ## ▪️ Github Stats ▪️ 
 
  </br> 
- 
+<div align="center">
+<div align="left" width="48">
+
+</div>
+<div align="left" width="48">
+
+</div>
+<div align="left" width="48">
+
+</div>
+<div align="left" width="48">
+
+</div>
+<div align="left" width="48">
+
 </div>
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=quintin-dev&background=000000&ring=F61115&fire=F61115&currStreakLabel=9A54B3&sideLabels=EAEAEA&sideNums=EAEAEA&currStreakNum=F61115&dates=EAEAEA&border=F61115" 
