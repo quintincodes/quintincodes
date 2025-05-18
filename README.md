@@ -5,7 +5,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Eddking-QS&color=blue&style=flat-square&label=PROFILE+VIEWS)
 </div>
 
-## ▪️ About Me ▪️
+## ▪️About Me▪️
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=1000&pause=2500&color=FF0066&center=true&vCenter=true&multiline=true&width=1000&height=130&lines=👨🏿‍💻+I'm+Quintin+%7C+Aspiring+Full-Stack+Engineer+%26+Future+Founder;🎓+3rd-Year+CS+Student+%40+VVU;☁️+Cloud+%26+AI+Enthusiast+%7C+Innovating+One+Project+at+a+Time;🔥+365+Days+of+Code+In+Progress+%7C+Let's+Build+Something+Great!" alt="Typing SVG" />
@@ -20,7 +20,7 @@
 </div>
 
 
-## ▪️ Learning Progress ▪️
+## ▪️My Learning Progress▪️
 
 <img src="assets/setup.gif" height="300" width="300" align="left"> 
 </br>
@@ -59,7 +59,7 @@
 </div>
 
 
-## ▪️ Projects ▪️
+## ▪️My Projects▪️
 
 <table align="center" width="100%">
   <thead>
@@ -199,7 +199,7 @@
   
   </br>
 
-## ▪️ My Techstack ▪️
+## ▪️My Techstack▪️
 
 <table align="center" width="100%">
   <tr>
@@ -290,7 +290,7 @@
 
 </br>
 
-## ▪️ Github Stats ▪️ 
+## ▪️My Github Stats▪️ 
 
  </br> 
 <div align="center">
@@ -338,7 +338,7 @@
 
 </br>
 
-## ▪️ Let's Connect ▪️
+## ▪️Let's Connect▪️
 
 I'm always open to discussions, new ideas, collaborations, or networking. Feel free to reach out!
  </br> 
