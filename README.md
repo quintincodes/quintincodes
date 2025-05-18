@@ -78,13 +78,13 @@
       <td style="text-align:left;"><a href="" target="_blank">Voting System</a></td>
       <td style="text-align:left;">A complete university SRC voting system. Check repo for test credentials</td>
       <td style="text-align:center;">PHP, JavaScript, HTML, CSS</td>
-      <td style="text-align:center;"><a href="" target="_blank">[View]</a></td>
+      <td style="text-align:center;"><a href="https://www.google.com/search?client=opera&hs=0Nf&sca_esv=f6f8f3c1cd116740&sxsrf=AHTn8zpIzdxXQArktztpub2aY_Vze0MNLg:1747561700126&q=coming+soon+website+pages&udm=2&fbs=ABzOT_CWdhQLP1FcmU5B0fn3xuWpA-dk4wpBWOGsoR7DG5zJBpcx8kZB4NRoUjdgt8WwoMs7jebc2P25mD9bLva5PWN4zVPkHTrJb1XtEJXPDPnM-3Nqyg2DpQYf0__rgvYp763IkQ9wxjNooUaKDkXlB3lGj28gr3qsQFBjNO8OEq8-MzmH-kNxF3eMh5-nrSYqIt9gGxfB6OQDTktW3hyNtNgdVCasig&sa=X&ved=2ahUKEwjXy-_S3qyNAxXGmokEHYJiMRsQtKgLegQIFRAB&biw=1918&bih=992#vhid=DfpiQcbxUwf7TM&vssid=mosaic" target="_blank">[View]</a></td>
     </tr>
     <tr>
       <td style="text-align:left;"><a href="" target="_blank">Student Infomation System</a></td>
       <td style="text-align:left;">A complete student information system. Check repo for test credentials</td>
       <td style="text-align:center;">PHP, JavaScript, HTML, CSS, Bootstrap</td>
-      <td style="text-align:center;"><a href="" target="_blank">[View]</a></td>
+      <td style="text-align:center;"><a href="https://www.google.com/search?client=opera&hs=0Nf&sca_esv=f6f8f3c1cd116740&sxsrf=AHTn8zpIzdxXQArktztpub2aY_Vze0MNLg:1747561700126&q=coming+soon+website+pages&udm=2&fbs=ABzOT_CWdhQLP1FcmU5B0fn3xuWpA-dk4wpBWOGsoR7DG5zJBpcx8kZB4NRoUjdgt8WwoMs7jebc2P25mD9bLva5PWN4zVPkHTrJb1XtEJXPDPnM-3Nqyg2DpQYf0__rgvYp763IkQ9wxjNooUaKDkXlB3lGj28gr3qsQFBjNO8OEq8-MzmH-kNxF3eMh5-nrSYqIt9gGxfB6OQDTktW3hyNtNgdVCasig&sa=X&ved=2ahUKEwjXy-_S3qyNAxXGmokEHYJiMRsQtKgLegQIFRAB&biw=1918&bih=992#vhid=DfpiQcbxUwf7TM&vssid=mosaic" target="_blank">[View]</a></td>
     </tr>
     <tr>
       <td style="text-align:left;"><a href="https://github.com/Eddking-QS/Projects-eCommerce_App" target="_blank">C++ E-Commerce Console App</a></td>
