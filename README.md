@@ -104,7 +104,7 @@
 <table align="center" width="100%">
   <thead>
     <tr>
-      <th colspan="4" style="text-align:center; font-size: 1.2em;">FCC CERTIFICATION PROJECTS (HTML/CSS)</th>
+      <th colspan="4" style="text-align:center; font-size: 1.2em;">FCC Responsive Web Design Certification Projects</th>
     </tr>
     <tr>
       <th style="width:30%; text-align:center;">Project Name</th>
@@ -144,7 +144,7 @@
 <table align="center" width="100%">
   <thead>
     <tr>
-      <th colspan="4" style="text-align:center; font-size: 1.2em;">FCC CERTIFICATION PROJECTS (JAVASCRIPT)</th>
+      <th colspan="4" style="text-align:center; font-size: 1.2em;">FCC JavaScript Data Structures & Algorithms Certification Projects</th>
     </tr>
     <tr>
       <th style="width:30%; text-align:center;">Project Name</th>
