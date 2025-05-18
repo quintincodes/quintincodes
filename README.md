@@ -89,8 +89,6 @@
   </tbody>
 </table>
 
-<br>
-
 <table align="center" width="100%">
   <thead>
     <tr>
@@ -131,8 +129,6 @@
     </tbody>
 </table>
 
-<br>
-
 <table align="center" width="100%">
   <thead>
     <tr>
@@ -155,8 +151,6 @@
   </tbody>
 </table>
 
-<br>
-<br>
 
 <table align="center" width="100%">
   <thead>
@@ -294,6 +288,8 @@
   </tr>
 </table>
 
+</br>
+
 ## ▪️ Github Stats ▪️ 
 
  </br> 
@@ -339,6 +335,8 @@
 
 
 </div>
+
+</br>
 
 ## ▪️ Let's Connect ▪️
 
