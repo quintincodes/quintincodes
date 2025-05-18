@@ -12,8 +12,13 @@
 </p>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=quintin-dev&theme=radical&no-frame=true&no-bg=true&margin-w=5&margin-h=5&column=3&row=1" alt="Quintin's GitHub Trophies" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=quintin-dev&theme=radical&no-frame=true&no-bg=true&margin-w=5&margin-h=5&column=3&row=1"
+    alt="Quintin's GitHub Trophies"
+    width="270"    <!-- scales width down from 800px to 400px -->
+  />
 </div>
+
 
 ## ▪️ Learning Progress ▪️
 
