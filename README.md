@@ -12,10 +12,15 @@
 </p>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=quintin-dev&theme=radical&no-frame=true&no-bg=true&margin-w=5&margin-h=5&column=3&row=1" alt="Quintin's GitHub Trophies" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=quintin-dev&theme=radical&no-frame=true&no-bg=true&margin-w=5&margin-h=5&column=3&row=1"
+    alt="Quintin's GitHub Trophies"
+    width="270"    
+  />
 </div>
 
-## ▪️ Learning Progress ▪️
+
+## ▪️ My Learning Progress ▪️
 
 <img src="assets/setup.gif" height="300" width="300" align="left"> 
 </br>
@@ -54,7 +59,7 @@
 </div>
 
 
-## ▪️ Projects ▪️
+## ▪️ My Projects ▪️
 
 <table align="center" width="100%">
   <thead>
@@ -290,7 +295,7 @@
 </table>
 
 
-## ▪️ Github Stats ▪️ 
+## ▪️My Github Stats ▪️ 
 
  </br> 
 <div align="center">
@@ -337,17 +342,17 @@
 </div>
 
 
+## ▪️ Let’s Connect ▪️
+
+<div align="center">
+  
+  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord)](https://discord.gg/S4KuUJSa)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/quintin_dev)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@quintin.dev)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:contact.mrquintin@gmail.com)
+</div>
 
 
- ## ▪️ Let's Connect ▪️ 
 
-  </br> 
-I'm always open to discussions, ideas, collaborations, or networking. Here's how you can reach me:
 
--   Lets talk on <a href="https://discord.gg/S4KuUJSa">Discord</a>
--   Connect with me on: <a href="">LinkedIn</a>
--   Follow me on: <a href="https://twitter.com/quintin_dev">Twitter</a>
--   Follow me on: <a href="https://www.tiktok.com/@quintin.dev">TikTok</a>
--   Send me an email at: contact.mrquintin@gmail.com
-
-Looking forward to hearing from you!
