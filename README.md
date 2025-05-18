@@ -74,6 +74,18 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td style="text-align:left;"><a href="" target="_blank">Voting System</a></td>
+      <td style="text-align:left;">A complete university SRC voting system. Check repo for test credentials</td>
+      <td style="text-align:center;">PHP, JavaScript, HTML, CSS</td>
+      <td style="text-align:center;"><a href="" target="_blank">[View]</a></td>
+    </tr>
+    <tr>
+      <td style="text-align:left;"><a href="" target="_blank">Student Infomation System</a></td>
+      <td style="text-align:left;">A complete student information system. Check repo for test credentials</td>
+      <td style="text-align:center;">PHP, JavaScript, HTML, CSS, Bootstrap</td>
+      <td style="text-align:center;"><a href="" target="_blank">[View]</a></td>
+    </tr>
     <tr>
       <td style="text-align:left;"><a href="https://github.com/Eddking-QS/Projects-eCommerce_App" target="_blank">C++ E-Commerce Console App</a></td>
       <td style="text-align:left;">My 1st year, end of 1st semester C++ project simulating basic e-commerce operations.</td>
