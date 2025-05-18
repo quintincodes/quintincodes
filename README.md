@@ -108,25 +108,25 @@
       <td style="text-align:left;"><a href="https://github.com/Eddking-QS/FCC-Survey_Form" target="_blank">Survey Form</a></td>
       <td style="text-align:left;">Simple survey form page made with HTML and CSS.</td>
       <td style="text-align:center;">HTML, CSS</td>
-      <td style="text-align:center;"><a href="YOUR_LIVE_DEMO_LINK_HERE" target="_blank">[View]</a></td>
+      <td style="text-align:center;"><a href="https://quintin-dev.github.io/Projects-Survey_Form/" target="_blank">[View]</a></td>
     </tr>
     <tr>
       <td style="text-align:left;"><a href="https://github.com/Eddking-QS/Projects-Tribute_Page" target="_blank">Tribute Page</a></td>
       <td style="text-align:left;">A Tribute/Memorial page for a pet dog called Ace.</td>
       <td style="text-align:center;">HTML, CSS</td>
-      <td style="text-align:center;"><a href="YOUR_LIVE_DEMO_LINK_HERE" target="_blank">[View]</a></td>
+      <td style="text-align:center;"><a href="https://quintin-dev.github.io/Projects-Tribute_Page/" target="_blank">[View]</a></td>
     </tr>
     <tr>
       <td style="text-align:left;"><a href="https://github.com/Eddking-QS/Projects-Technical_Documentation_Page" target="_blank">Technical Documentation Page</a></td>
       <td style="text-align:left;">A blog containing the best tools for each stage in the development cycle.</td>
       <td style="text-align:center;">HTML, CSS</td>
-      <td style="text-align:center;"><a href="YOUR_LIVE_DEMO_LINK_HERE" target="_blank">[View]</a></td>
+      <td style="text-align:center;"><a href="https://quintin-dev.github.io/Projects-Technical_Documentation_Page/" target="_blank">[View]</a></td>
     </tr>
     <tr>
       <td style="text-align:left;"><a href="https://github.com/Eddking-QS/Projects-Product_Landing_Page" target="_blank">Product Landing Page</a></td>
       <td style="text-align:left;">A product landing page for the Samsung Galaxy Watch.</td>
       <td style="text-align:center;">HTML, CSS</td>
-      <td style="text-align:center;"><a href="YOUR_LIVE_DEMO_LINK_HERE" target="_blank">[View]</a></td>
+      <td style="text-align:center;"><a href="https://quintin-dev.github.io/Projects-Product_Landing_Page/" target="_blank">[View]</a></td>
     </tr>
     </tbody>
 </table>
@@ -150,7 +150,7 @@
       <td style="text-align:left;"><a href="https://github.com/quintin-dev/FCC-Palindrome_Checker" target="_blank">Palindrome Checker</a></td>
       <td style="text-align:left;">A simple Web Page with a Palindrome Checker and a hidden easter egg.</td>
       <td style="text-align:center;">HTML, CSS, JavaScript</td>
-      <td style="text-align:center;"><a href="YOUR_LIVE_DEMO_LINK_HERE" target="_blank">[View]</a></td>
+      <td style="text-align:center;"><a href="https://quintin-dev.github.io/Projects-Palindrome_Checker/" target="_blank">[View]</a></td>
     </tr>
   </tbody>
 </table>
