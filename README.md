@@ -315,11 +315,11 @@
     style="vertical-align: top;" 
     alt="GitHub Streak" 
   />
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=quintin-dev&bg_color=000000&color=EAEAEA&line=9A54B3&point=F61115&area=true&hide_border=false&border_color=F61115" 
-    width="48%"  
-    alt="GitHub Activity Graph" 
-  />
+ <img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=quintin-dev&bg_color=000000&color=EAEAEA&line=9A54B3&point=F61115&area=true&hide_border=false&height=468" 
+  width="48%"  
+  alt="GitHub Activity Graph" 
+/>
   <img 
   src="https://github-readme-stats.vercel.app/api?username=quintin-dev&count_private=true&show_icons=true&hide=issues&hide_border=false&bg_color=000000&title_color=F61115&text_color=EAEAEA&icon_color=9A54B3&border_color=F61115&show=discussions_started,prs_merged,prs_merged_percentage" 
   width="48%" 
