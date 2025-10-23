@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=Eddking-QS&color=blue&style=flat-square&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=quintincodes&color=blue&style=flat-square&label=PROFILE+VIEWS)
 </div>
 
 ## ▪️About Me▪️
@@ -81,7 +81,7 @@
       <td style="text-align:center;"><a href="https://www.google.com/search?client=opera&hs=0Nf&sca_esv=f6f8f3c1cd116740&sxsrf=AHTn8zpIzdxXQArktztpub2aY_Vze0MNLg:1747561700126&q=coming+soon+website+pages&udm=2&fbs=ABzOT_CWdhQLP1FcmU5B0fn3xuWpA-dk4wpBWOGsoR7DG5zJBpcx8kZB4NRoUjdgt8WwoMs7jebc2P25mD9bLva5PWN4zVPkHTrJb1XtEJXPDPnM-3Nqyg2DpQYf0__rgvYp763IkQ9wxjNooUaKDkXlB3lGj28gr3qsQFBjNO8OEq8-MzmH-kNxF3eMh5-nrSYqIt9gGxfB6OQDTktW3hyNtNgdVCasig&sa=X&ved=2ahUKEwjXy-_S3qyNAxXGmokEHYJiMRsQtKgLegQIFRAB&biw=1918&bih=992#vhid=DfpiQcbxUwf7TM&vssid=mosaic" target="_blank">[View]</a></td>
     </tr>
     <tr>
-      <td style="text-align:left;"><a href="https://github.com/Eddking-QS/Projects-eCommerce_App" target="_blank">C++ E-Commerce Console App</a></td>
+      <td style="text-align:left;"><a href="https://github.com/quintincodes/Projects-eCommerce_App" target="_blank">C++ E-Commerce Console App</a></td>
       <td style="text-align:left;">My 1st year, end of 1st semester C++ project simulating basic e-commerce operations.</td>
       <td style="text-align:center;">C++</td>
       <td style="text-align:center;">N/A (Console)</td>
@@ -109,25 +109,25 @@
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left;"><a href="https://github.com/Eddking-QS/FCC-Survey_Form" target="_blank">Survey Form</a></td>
+      <td style="text-align:left;"><a href="https://github.com/quintincodes/FCC-Survey_Form" target="_blank">Survey Form</a></td>
       <td style="text-align:left;">Simple survey form page made with HTML and CSS.</td>
       <td style="text-align:center;">HTML, CSS</td>
       <td style="text-align:center;"><a href="https://quintincodes.github.io/Projects-Survey_Form/" target="_blank">[View]</a></td>
     </tr>
     <tr>
-      <td style="text-align:left;"><a href="https://github.com/Eddking-QS/Projects-Tribute_Page" target="_blank">Tribute Page</a></td>
+      <td style="text-align:left;"><a href="https://github.com/quintincodes/Projects-Tribute_Page" target="_blank">Tribute Page</a></td>
       <td style="text-align:left;">A Tribute/Memorial page for a pet dog called Ace.</td>
       <td style="text-align:center;">HTML, CSS</td>
       <td style="text-align:center;"><a href="https://quintincodes.github.io/Projects-Tribute_Page/" target="_blank">[View]</a></td>
     </tr>
     <tr>
-      <td style="text-align:left;"><a href="https://github.com/Eddking-QS/Projects-Technical_Documentation_Page" target="_blank">Technical Documentation Page</a></td>
+      <td style="text-align:left;"><a href="https://github.com/quintincodes/Projects-Technical_Documentation_Page" target="_blank">Technical Documentation Page</a></td>
       <td style="text-align:left;">A blog containing the best tools for each stage in the development cycle.</td>
       <td style="text-align:center;">HTML, CSS</td>
       <td style="text-align:center;"><a href="https://quintincodes.github.io/Projects-Technical_Documentation_Page/" target="_blank">[View]</a></td>
     </tr>
     <tr>
-      <td style="text-align:left;"><a href="https://github.com/Eddking-QS/Projects-Product_Landing_Page" target="_blank">Product Landing Page</a></td>
+      <td style="text-align:left;"><a href="https://github.com/quintincodes/Projects-Product_Landing_Page" target="_blank">Product Landing Page</a></td>
       <td style="text-align:left;">A product landing page for the Samsung Galaxy Watch.</td>
       <td style="text-align:center;">HTML, CSS</td>
       <td style="text-align:center;"><a href="https://quintincodes.github.io/Projects-Product_Landing_Page/" target="_blank">[View]</a></td>
@@ -167,33 +167,33 @@
       <td align="center" colspan="2">Click On The Project Name To View</td> </tr>
     <tr>
       <th align="center" style="width:30%;">HTML <br> CSS <br> Tailwind CSS</th>
-      <td style="width:70%; text-align:left;"> <a href="https://github.com/Eddking-QS/HTML-Mini-Project-CookieMonster" target="_blank">Cookie Monster Portfolio Website</a> &nbsp;▪︎&nbsp;
-        <a href="https://github.com/Eddking-QS/HTML-Mini_Projects-CatPhotoApp" target="_blank">Cat Photo App</a> &nbsp;▪︎&nbsp;
-        <a href="https://github.com/Eddking-QS/CSS-Mini_Projects-Cafe_Menu" target="_blank">Cafe Menu</a> &nbsp;▪︎&nbsp;
-        <a href="https://github.com/Eddking-QS/CSS-Mini_Project-Markers" target="_blank">CSS Color Markers</a> &nbsp;▪︎&nbsp;
-        <a href="https://github.com/Eddking-QS/HTML-Mini_Projects-Registration_Form" target="_blank">Registration Form</a> &nbsp;▪︎&nbsp;
-        <a href="https://github.com/Eddking-QS/CSS_Mini-Projects_Rothko_Painting" target="_blank">Rothko Painting</a> &nbsp;▪︎&nbsp;
-        <a href="https://github.com/Eddking-QS/CSS-Mini_Projects-Gallery" target="_blank">Gallery</a> &nbsp;▪︎&nbsp;
-        <a href="https://github.com/Eddking-QS/CSS-Mini_Projects-Nutrition_Label" target="_blank">Nutrition Label</a> &nbsp;▪︎&nbsp;
-        <a href="https://github.com/Eddking-QS/Mini_Projects-Accessibility_Quiz" target="_blank">Accessibility Quiz</a> &nbsp;▪︎&nbsp;
-        <a href="https://github.com/Eddking-QS/CSS-Mini_Projects-Balance_Sheet" target="_blank">Balance Sheet</a> &nbsp;▪︎&nbsp;
-        <a href="https://github.com/Eddking-QS/CSS-Mini_Projects-Cat_Painting" target="_blank">Cat Painting</a> &nbsp;▪︎&nbsp;
-        <a href="https://github.com/Eddking-QS/CSS-Mini_Projects-Piano" target="_blank">Piano</a> &nbsp;▪︎&nbsp;
-        <a href="https://github.com/Eddking-QS/CSS-Mini_Projects-City_Skyline" target="_blank">City Skyline</a> &nbsp;▪︎&nbsp;
-        <a href="https://github.com/Eddking-QS/CSS-Mini_Projects-Magazine" target="_blank">Magazine</a> &nbsp;▪︎&nbsp;
-        <a href="https://github.com/Eddking-QS/CSS-Mini_Projects-Ferris_Wheel" target="_blank">Ferris Wheel</a> &nbsp;▪︎&nbsp;
-        <a href="https://github.com/Eddking-QS/CSS-Mini_Projects-Animated_Penguin" target="_blank">Animated Penguin</a> &nbsp;▪︎&nbsp;
+      <td style="width:70%; text-align:left;"> <a href="https://github.com/quintincodes/HTML-Mini-Project-CookieMonster" target="_blank">Cookie Monster Portfolio Website</a> &nbsp;▪︎&nbsp;
+        <a href="https://github.com/quintincodes/HTML-Mini_Projects-CatPhotoApp" target="_blank">Cat Photo App</a> &nbsp;▪︎&nbsp;
+        <a href="https://github.com/quintincodes/CSS-Mini_Projects-Cafe_Menu" target="_blank">Cafe Menu</a> &nbsp;▪︎&nbsp;
+        <a href="https://github.com/quintincodes/CSS-Mini_Project-Markers" target="_blank">CSS Color Markers</a> &nbsp;▪︎&nbsp;
+        <a href="https://github.com/quintincodes/HTML-Mini_Projects-Registration_Form" target="_blank">Registration Form</a> &nbsp;▪︎&nbsp;
+        <a href="https://github.com/quintincodes/CSS_Mini-Projects_Rothko_Painting" target="_blank">Rothko Painting</a> &nbsp;▪︎&nbsp;
+        <a href="https://github.com/quintincodes/CSS-Mini_Projects-Gallery" target="_blank">Gallery</a> &nbsp;▪︎&nbsp;
+        <a href="https://github.com/quintincodes/CSS-Mini_Projects-Nutrition_Label" target="_blank">Nutrition Label</a> &nbsp;▪︎&nbsp;
+        <a href="https://github.com/quintincodes/Mini_Projects-Accessibility_Quiz" target="_blank">Accessibility Quiz</a> &nbsp;▪︎&nbsp;
+        <a href="https://github.com/quintincodes/CSS-Mini_Projects-Balance_Sheet" target="_blank">Balance Sheet</a> &nbsp;▪︎&nbsp;
+        <a href="https://github.com/quintincodes/CSS-Mini_Projects-Cat_Painting" target="_blank">Cat Painting</a> &nbsp;▪︎&nbsp;
+        <a href="https://github.com/quintincodes/CSS-Mini_Projects-Piano" target="_blank">Piano</a> &nbsp;▪︎&nbsp;
+        <a href="https://github.com/quintincodes/CSS-Mini_Projects-City_Skyline" target="_blank">City Skyline</a> &nbsp;▪︎&nbsp;
+        <a href="https://github.com/quintincodes/CSS-Mini_Projects-Magazine" target="_blank">Magazine</a> &nbsp;▪︎&nbsp;
+        <a href="https://github.com/quintincodes/CSS-Mini_Projects-Ferris_Wheel" target="_blank">Ferris Wheel</a> &nbsp;▪︎&nbsp;
+        <a href="https://github.com/quintincodes/CSS-Mini_Projects-Animated_Penguin" target="_blank">Animated Penguin</a> &nbsp;▪︎&nbsp;
         <a href="https://github.com/quintincodes/CSS-Mini_Projects-Thank_You_Page" target="_blank">Thank You Page</a>
       </td>
     </tr>
     <tr>
-      <th align="center" style="width:30%;">Javascript</th>       <td style="width:70%; text-align:left;"> <a href="https://github.com/Eddking-QS/JavaScript-Mini_Projects-Pyramid_Generator" target="_blank">Pyramid Generator</a> &nbsp;▪︎&nbsp;
-        <a href="https://github.com/Eddking-QS/JavaScript-Mini_Projects-GradeBook_App" target="_blank">GradeBook App</a> &nbsp;▪︎&nbsp;
-        <a href="https://github.com/Eddking-QS/JavaScript-Mini_Project-Role_Playing_Game" target="_blank">Role Playing Game</a> &nbsp;▪︎&nbsp;
-        <a href="https://github.com/Eddking-QS/JavaScript-Mini_Projects-Random_Background_Generator" target="_blank">Random Background Generator</a> &nbsp;▪︎&nbsp;
-        <a href="https://github.com/Eddking-QS/JavaScript-Mini_Project-Calorie_Counter" target="_blank">Calorie Counter</a> &nbsp;▪︎&nbsp;
-        <a href="https://github.com/Eddking-QS/JavaScript-Mini_Project-Rock_Paper_Scissors_Game" target="_blank">Rock, Paper, Scissors Game</a> &nbsp;▪︎&nbsp;
-        <a href="https://github.com/Eddking-QS/JavaScript-Mini_Project-Music_Player" target="_blank">Music Player</a> &nbsp;▪︎&nbsp;
+      <th align="center" style="width:30%;">Javascript</th>       <td style="width:70%; text-align:left;"> <a href="https://github.com/quintincodes/JavaScript-Mini_Projects-Pyramid_Generator" target="_blank">Pyramid Generator</a> &nbsp;▪︎&nbsp;
+        <a href="https://github.com/quintincodes/JavaScript-Mini_Projects-GradeBook_App" target="_blank">GradeBook App</a> &nbsp;▪︎&nbsp;
+        <a href="https://github.com/quintincodes/JavaScript-Mini_Project-Role_Playing_Game" target="_blank">Role Playing Game</a> &nbsp;▪︎&nbsp;
+        <a href="https://github.com/quintincodes/JavaScript-Mini_Projects-Random_Background_Generator" target="_blank">Random Background Generator</a> &nbsp;▪︎&nbsp;
+        <a href="https://github.com/quintincodes/JavaScript-Mini_Project-Calorie_Counter" target="_blank">Calorie Counter</a> &nbsp;▪︎&nbsp;
+        <a href="https://github.com/quintincodes/JavaScript-Mini_Project-Rock_Paper_Scissors_Game" target="_blank">Rock, Paper, Scissors Game</a> &nbsp;▪︎&nbsp;
+        <a href="https://github.com/quintincodes/JavaScript-Mini_Project-Music_Player" target="_blank">Music Player</a> &nbsp;▪︎&nbsp;
       </td>
     </tr>
   </tbody>
