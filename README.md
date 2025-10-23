@@ -19,45 +19,39 @@
   />
 </div>
 
-
 ## ▪️My Learning Progress▪️
 
 <img src="assets/setup.gif" height="300" width="300" align="left"> 
 </br>
 <div align="center">
 
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="55" width="55" /> &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="55" width="55" /> &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
 <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" height="55" width="55" /> &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" height="55" width="55" /> &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;  &nbsp;
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" height="55" width="55" /> &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;
 <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" height="55" width="55" /> &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" height="55" width="55">
 
-
-![C++](https://img.shields.io/badge/C++-25%25-blue)      
-![Python](https://img.shields.io/badge/Python-40%25-blue)      
-![JavaScript](https://img.shields.io/badge/JavaScript-40%25-yellow)      
-![Java](https://img.shields.io/badge/Java-12%25-red)      
+![C++](https://img.shields.io/badge/C++-25%25-blue)     
+![Python](https://img.shields.io/badge/Python-40%25-blue)     
+![JavaScript](https://img.shields.io/badge/JavaScript-40%25-yellow)     
+![Java](https://img.shields.io/badge/Java-12%25-red)     
 ![PHP](https://img.shields.io/badge/PHP-15%25-purple)  
 </br> </br>
 
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" height="50" width="50" /> &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" height="50" width="50" /> &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;
-<img src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg" alt="Tailwind CSS" height="55" width="55" /> &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;  &nbsp; &nbsp;
+<img src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg" alt="Tailwind CSS" height="55" width="55" /> &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL"  height="55" width="55" /> &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" height="50" width="50" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" height="50" width="50" />
 
-
-![HTML](https://img.shields.io/badge/HTML-80%25-orange)      
-![CSS](https://img.shields.io/badge/CSS-70%25-blue)      
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-50%25-teal)      
-![SQL](https://img.shields.io/badge/SQL-25%25-lightgrey)      
-![Figma](https://img.shields.io/badge/Figma-35%25-pink) 
+![HTML](https://img.shields.io/badge/HTML-80%25-orange)     
+![CSS](https://img.shields.io/badge/CSS-70%25-blue)     
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-50%25-teal)     
+![SQL](https://img.shields.io/badge/SQL-25%25-lightgrey)     
+![Figma](https://img.shields.io/badge/Figma-35%25-pink)
 
 </br>
 </div>
-
 
 ## ▪️My Projects▪️
 
@@ -75,13 +69,13 @@
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left;"><a href="https://github.com/quintin-dev/Projects-Voting_Sytem" target="_blank">Voting System</a></td>
+      <td style="text-align:left;"><a href="https://github.com/quintincodes/Projects-Voting_Sytem" target="_blank">Voting System</a></td>
       <td style="text-align:left;">A complete university SRC voting system. Check repo for test credentials</td>
       <td style="text-align:center;">PHP, JavaScript, HTML, CSS</td>
       <td style="text-align:center;"><a href="https://www.google.com/search?client=opera&hs=0Nf&sca_esv=f6f8f3c1cd116740&sxsrf=AHTn8zpIzdxXQArktztpub2aY_Vze0MNLg:1747561700126&q=coming+soon+website+pages&udm=2&fbs=ABzOT_CWdhQLP1FcmU5B0fn3xuWpA-dk4wpBWOGsoR7DG5zJBpcx8kZB4NRoUjdgt8WwoMs7jebc2P25mD9bLva5PWN4zVPkHTrJb1XtEJXPDPnM-3Nqyg2DpQYf0__rgvYp763IkQ9wxjNooUaKDkXlB3lGj28gr3qsQFBjNO8OEq8-MzmH-kNxF3eMh5-nrSYqIt9gGxfB6OQDTktW3hyNtNgdVCasig&sa=X&ved=2ahUKEwjXy-_S3qyNAxXGmokEHYJiMRsQtKgLegQIFRAB&biw=1918&bih=992#vhid=DfpiQcbxUwf7TM&vssid=mosaic" target="_blank">[View]</a></td>
     </tr>
     <tr>
-      <td style="text-align:left;"><a href="https://github.com/quintin-dev/Projects-Student_Information_System" target="_blank">Student Infomation System</a></td>
+      <td style="text-align:left;"><a href="https://github.com/quintincodes/Projects-Student_Information_System" target="_blank">Student Infomation System</a></td>
       <td style="text-align:left;">A complete student information system. Check repo for test credentials</td>
       <td style="text-align:center;">PHP, JavaScript, HTML, CSS, Bootstrap</td>
       <td style="text-align:center;"><a href="https://www.google.com/search?client=opera&hs=0Nf&sca_esv=f6f8f3c1cd116740&sxsrf=AHTn8zpIzdxXQArktztpub2aY_Vze0MNLg:1747561700126&q=coming+soon+website+pages&udm=2&fbs=ABzOT_CWdhQLP1FcmU5B0fn3xuWpA-dk4wpBWOGsoR7DG5zJBpcx8kZB4NRoUjdgt8WwoMs7jebc2P25mD9bLva5PWN4zVPkHTrJb1XtEJXPDPnM-3Nqyg2DpQYf0__rgvYp763IkQ9wxjNooUaKDkXlB3lGj28gr3qsQFBjNO8OEq8-MzmH-kNxF3eMh5-nrSYqIt9gGxfB6OQDTktW3hyNtNgdVCasig&sa=X&ved=2ahUKEwjXy-_S3qyNAxXGmokEHYJiMRsQtKgLegQIFRAB&biw=1918&bih=992#vhid=DfpiQcbxUwf7TM&vssid=mosaic" target="_blank">[View]</a></td>
@@ -118,25 +112,25 @@
       <td style="text-align:left;"><a href="https://github.com/Eddking-QS/FCC-Survey_Form" target="_blank">Survey Form</a></td>
       <td style="text-align:left;">Simple survey form page made with HTML and CSS.</td>
       <td style="text-align:center;">HTML, CSS</td>
-      <td style="text-align:center;"><a href="https://quintin-dev.github.io/Projects-Survey_Form/" target="_blank">[View]</a></td>
+      <td style="text-align:center;"><a href="https://quintincodes.github.io/Projects-Survey_Form/" target="_blank">[View]</a></td>
     </tr>
     <tr>
       <td style="text-align:left;"><a href="https://github.com/Eddking-QS/Projects-Tribute_Page" target="_blank">Tribute Page</a></td>
       <td style="text-align:left;">A Tribute/Memorial page for a pet dog called Ace.</td>
       <td style="text-align:center;">HTML, CSS</td>
-      <td style="text-align:center;"><a href="https://quintin-dev.github.io/Projects-Tribute_Page/" target="_blank">[View]</a></td>
+      <td style="text-align:center;"><a href="https://quintincodes.github.io/Projects-Tribute_Page/" target="_blank">[View]</a></td>
     </tr>
     <tr>
       <td style="text-align:left;"><a href="https://github.com/Eddking-QS/Projects-Technical_Documentation_Page" target="_blank">Technical Documentation Page</a></td>
       <td style="text-align:left;">A blog containing the best tools for each stage in the development cycle.</td>
       <td style="text-align:center;">HTML, CSS</td>
-      <td style="text-align:center;"><a href="https://quintin-dev.github.io/Projects-Technical_Documentation_Page/" target="_blank">[View]</a></td>
+      <td style="text-align:center;"><a href="https://quintincodes.github.io/Projects-Technical_Documentation_Page/" target="_blank">[View]</a></td>
     </tr>
     <tr>
       <td style="text-align:left;"><a href="https://github.com/Eddking-QS/Projects-Product_Landing_Page" target="_blank">Product Landing Page</a></td>
       <td style="text-align:left;">A product landing page for the Samsung Galaxy Watch.</td>
       <td style="text-align:center;">HTML, CSS</td>
-      <td style="text-align:center;"><a href="https://quintin-dev.github.io/Projects-Product_Landing_Page/" target="_blank">[View]</a></td>
+      <td style="text-align:center;"><a href="https://quintincodes.github.io/Projects-Product_Landing_Page/" target="_blank">[View]</a></td>
     </tr>
     </tbody>
 </table>
@@ -155,14 +149,13 @@
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left;"><a href="https://github.com/quintin-dev/FCC-Palindrome_Checker" target="_blank">Palindrome Checker</a></td>
+      <td style="text-align:left;"><a href="https://github.com/quintincodes/FCC-Palindrome_Checker" target="_blank">Palindrome Checker</a></td>
       <td style="text-align:left;">A simple Web Page with a Palindrome Checker and a hidden easter egg.</td>
       <td style="text-align:center;">HTML, CSS, JavaScript</td>
-      <td style="text-align:center;"><a href="https://quintin-dev.github.io/Projects-Palindrome_Checker/" target="_blank">[View]</a></td>
+      <td style="text-align:center;"><a href="https://quintincodes.github.io/Projects-Palindrome_Checker/" target="_blank">[View]</a></td>
     </tr>
   </tbody>
 </table>
-
 
 <table align="center" width="100%">
   <thead>
@@ -190,7 +183,7 @@
         <a href="https://github.com/Eddking-QS/CSS-Mini_Projects-Magazine" target="_blank">Magazine</a> &nbsp;▪︎&nbsp;
         <a href="https://github.com/Eddking-QS/CSS-Mini_Projects-Ferris_Wheel" target="_blank">Ferris Wheel</a> &nbsp;▪︎&nbsp;
         <a href="https://github.com/Eddking-QS/CSS-Mini_Projects-Animated_Penguin" target="_blank">Animated Penguin</a> &nbsp;▪︎&nbsp;
-        <a href="https://github.com/quintin-dev/CSS-Mini_Projects-Thank_You_Page" target="_blank">Thank You Page</a>
+        <a href="https://github.com/quintincodes/CSS-Mini_Projects-Thank_You_Page" target="_blank">Thank You Page</a>
       </td>
     </tr>
     <tr>
@@ -205,7 +198,6 @@
     </tr>
   </tbody>
 </table>
-
 
   </div>
   
@@ -302,7 +294,7 @@
 
 </br>
 
-## ▪️My Github Stats▪️ 
+## ▪️My Github Stats▪️
 
  </br> 
 <div align="center">
@@ -345,7 +337,6 @@
 
 </div>
 
-
 </div>
 
 </br>
@@ -353,16 +344,13 @@
 ## ▪️Let's Connect▪️
 
 I'm always open to discussions, new ideas, collaborations, or networking. Feel free to reach out!
- </br> 
+</br>
 
 [![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_PROFILE_URL_HERE) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Chat on Discord](https://img.shields.io/badge/Discord-Chat-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/S4KuUJSa) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Follow on X (Twitter)](https://img.shields.io/badge/X_(Twitter)-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/quintin_dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Follow on X (Twitter)](<https://img.shields.io/badge/X_(Twitter)-Follow-000000?style=for-the-badge&logo=x&logoColor=white>)](https://twitter.com/quintin_dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 </br>
 
 [![Follow on TikTok](https://img.shields.io/badge/TikTok-Follow-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@quintin.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Send an Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.mrquintin@gmail.com)
-
-
-
