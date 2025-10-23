@@ -109,7 +109,7 @@
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left;"><a href="https://github.com/quintincodes/FCC-Survey_Form" target="_blank">Survey Form</a></td>
+      <td style="text-align:left;"><a href="https://github.com/quintincodes/Projects-Survey_Form" target="_blank">Survey Form</a></td>
       <td style="text-align:left;">Simple survey form page made with HTML and CSS.</td>
       <td style="text-align:center;">HTML, CSS</td>
       <td style="text-align:center;"><a href="https://quintincodes.github.io/Projects-Survey_Form/" target="_blank">[View]</a></td>
