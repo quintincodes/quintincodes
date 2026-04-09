@@ -8,7 +8,7 @@
 ## ▪️About Me▪️
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=1000&pause=2500&color=FF0066&center=true&vCenter=true&multiline=true&width=1000&height=130&lines=👨🏿‍💻+I'm+Edward+King+%7C+Founder+and+CEO+of+QEXION+LABS;🎓+3rd-Year+CS+Student+%40+VVU;☁️+Cloud+%26+AI+Enthusiast+%7C+Innovating+One+Project+at+a+Time;🔥+365+Days+of+Code+In+Progress+%7C+Let's+Build+Something+Great!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=1000&pause=2500&color=FF0066&center=true&vCenter=true&multiline=true&width=1000&height=130&lines=👨🏿‍💻+I'm+Edward+King+%7C+Founder+and+CEO+of+QEXION+LABS;☁️+Cloud+%26+AI+Enthusiast+%7C+Innovating+One+Project+at+a+Time;🔥+365+Days+of+Code+In+Progress+%7C+Let's+Build+Something+Great!" alt="Typing SVG" />
 </p>
 
 <div align="center">
